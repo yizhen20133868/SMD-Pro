@@ -1,0 +1,12 @@
+*.pkl
+*.npy
+*.log
+*.bin
+*.rar
+*.gz
+*.xlsx
+dev_data.json
+test_data.json
+train_data.json
+*.taxonomy
+smd
